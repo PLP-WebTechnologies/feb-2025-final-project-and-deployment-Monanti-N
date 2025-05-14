@@ -1,25 +1,42 @@
-# Final Project and Deployment
+# Ushanga Beadwork Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+This is a responsive, multi-page website showcasing traditional African beadwork by Ushanga. It features handcrafted products, community empowerment stories, and contact information for orders or inquiries.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## 🌐 Live Site
+Once deployed, the site will be accessible at:  
+https://dazzling-rugelach-63e729.netlify.app/
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 📁 Project Structure
+ushanga-site/
+├── index.html
+├── about.html
+├── contact.html
+├── css/
+│ └── style.css
+├── images/
+│ └── [ image files]
+└── README.md
 
-## Tasks
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## 🚀 Features
+- Elegant homepage with a hero section and product gallery
+- About page highlighting artisan work and community
+- Contact page with contact info and form
+- Fully responsive layout (mobile-friendly)
+- Earth-tone theme inspired by traditional beadwork
 
-Good luck and happy coding! 🚀💻
+## 🛠️ Technologies Used
+- HTML5
+- CSS3 (Flexbox & Grid)
+- Google Fonts (Poppins)
+
+## 📦 Deployment
+Deployed via [Netlify Drop](https://app.netlify.com/drop) with drag-and-drop support.
+
+## ✨ Author
+Monanti Neema  
+Email: monantineema@gmail.com  
+Phone: +254 747 076 854
+
+---
+
